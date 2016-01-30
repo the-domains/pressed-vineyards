@@ -1,0 +1,28 @@
+name: Pressed Vineyards
+favicon: null
+layout_spectrum: 0.1162519499193877
+typography_spectrum: 0.3109619540628046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1837020986713469
+  lightness: 0.847065991954878
+  saturation: 0.3997442389372736
+  rhythmicContrast: 0.5846523703075945
+purpose: []
